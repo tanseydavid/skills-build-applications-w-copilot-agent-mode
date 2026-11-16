@@ -8,3 +8,4 @@ const userSchema = new Schema({
 });
 
 export const User = model('User', userSchema);
+// User model representing a user in the application with their name, email, team, and fitness goal.
