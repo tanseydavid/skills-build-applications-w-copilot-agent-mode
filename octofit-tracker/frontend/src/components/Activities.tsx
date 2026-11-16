@@ -93,3 +93,4 @@ export default function Activities() {
     </section>
   );
 }
+// superfluous comment to allow commit to allow exercise to proceed
